@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
- * This is your fadas code
+/**
+ * main - Entry point
  *
- * Return = 0 (success)
+ * Return = Always 0 (success)
  */
 int main(void)
 {
